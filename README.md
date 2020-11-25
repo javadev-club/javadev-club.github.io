@@ -1,6 +1,6 @@
-# javadev-club.github.io
+# javadev-net.github.io
 
-http://javadev.club
+https://javadev.net
 
 
     gem install jekyll  
